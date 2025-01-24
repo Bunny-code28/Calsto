@@ -1,1 +1,4 @@
-
+hey you can run both scripts in any code editor
+it uses the 2 diffrent methods to approach 
+Rsp1.py uses technical indicators make it happen
+sp1.py adds a NLP using textblob to assign values to news sentiment to predict prices
