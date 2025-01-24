@@ -1,11 +1,12 @@
-this is a python script which analyzes the volatility of a specific stock ticker.
-Volatility is an important factor which affects stock prizes. 
+this is a python script which analyzes the investment aspect of a stock market.
+Investment is an important factor and you can get an idea what returns you can get. 
 
 #HOW TO USE
+
 1)Run the volatility.py python using any code editor
 2)you have to enter the following details in the following order, and you can change the details as you wish -
   Enter currency (INR or USD):
-  Enter investment amount in USD: 
+  Enter investment amount in USD or INR: 
   Enter stock name: 
   Enter number of simulations: 
 3)you will get an an output like this -
