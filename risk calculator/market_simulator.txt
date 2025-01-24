@@ -1,3 +1,20 @@
 Hey, this model try to simulate market conditions for the particular stock ticker
-warning!!!!
-use this just for educational purposes
+!!!WARNING!!!!
+
+Use this just for educational purposes
+
+#This runs on flask server.
+
+#steps to run this:
+1- Start flask Server
+2- This uses postman as an api to send inputs to the flask server
+3- Add url : http://localhost:5000/simulate
+  Header Content-type: application/json   (specifies the content and file format)
+4- Body: select 'raw' and "JSON"
+5- input content = {
+                      "currency": "USD",(for example you can change the currency)
+                      "investment_amount": 10000,(for example you can change the investment amount)
+                      "stock_name": "AAPL", (for example you can change the stock ticker)
+                      "num_simulation": 100  (for example you can change the no. of simulation)
+                   }
+6- click send
