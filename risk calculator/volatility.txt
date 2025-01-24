@@ -1,0 +1,24 @@
+this is a python script which analyzes the volatility of a specific stock ticker.
+Volatility is an important factor which affects stock prizes. 
+
+#HOW TO USE
+1)Run the volatility.py python using any code editor
+2)you have to enter the following details in the following order, and you can change the details as you wish -
+  Enter currency (INR or USD):
+  Enter investment amount in USD: 
+  Enter stock name: 
+  Enter number of simulations: 
+3)you will get an an output like this -
+  +-----------------+------------------+
+|     Metric      |      Value      |
++-----------------+------------------+
+|   Simulation    |        1        |
+|      Risk       |     9458.32     |
+|Potential Rewards|    10823.45     |
+|   Volatility    |      645.21     |
+|   Stock Name    |   Apple Inc.    |
+|  Market Value   |   2.84T         |
+|Shares Outstanding|   16.23B       |
++-----------------+------------------+
+- the no. of simulations you enter , you will get individual result for each one of the simulation.
+  
