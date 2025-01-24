@@ -1,0 +1,15 @@
+This script is a Direct command line interface
+It is Custom implementations of MACD/RSI
+Most of the input is directly via console
+It Shows plots directly
+It also includes future price prediction
+It provides a More detailed console output
+
+#HOW TO USE
+1)ENTER STOCK SYMBOL 
+2)output - 6 interactive plots
+           Volatility value
+           Trend analysis
+           Price prediction
+           Future price forecast
+           Final prediction graph
