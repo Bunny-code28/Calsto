@@ -1,0 +1,26 @@
+ It calculates various technical indicators (MACD, RSI, Moving Averages) and makes price predictions based on these metrics.
+
+ It is different from other scripts it represents data visually
+
+   This uses the postman to send input request
+
+#HOW TO USE 
+1)Start Flask server: python script.py
+2)In Postman:
+3)POST request to http://localhost:5000/analyzee
+  Headers: Content-Type: application/json
+  Body set it to (raw,JSON)
+4)Body:{
+        "symbol":"AAPL" (CAN CHANGE THE TICKER SYMBOL)
+        }
+5)The output includes:
+
+  1)Moving averages (20-day and 50-day)
+  2)MACD indicators
+  3)RSI values
+  4)Volume analysis
+  5)Volatility metrics
+  6)Trend analysis
+  7)Price prediction
+
+It also generates 6 plots showing these technical indicators visually.
