@@ -1,0 +1,8 @@
+I tried to implement a price prediction model which is some what successfull
+
+It Predicts stock prices using sentiment analysis and Markov chains but it is not a foolproof implementation
+It Incorporates news sentiment via NewsAPI which is then rated wai a set of point system which uses NLP
+
+#HOW TO USE
+1) NewsAPI key WHICH CAN BE OBTAINED FROM newsapi.org
+2) enter the stock symbol
