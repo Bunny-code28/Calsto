@@ -1,1 +1,3 @@
-
+Hey, this model try to simulate market conditions for the particular stock ticker
+warning!!!!
+use this just for educational purposes
